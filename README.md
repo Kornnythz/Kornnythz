@@ -1,13 +1,13 @@
 ### Hi there , I'm Korn 👋 I'm from Thailand.
 ---
-- 📚 I'm a bachelor's degree at University Thai-Nichi Institue of Technology [TNI][TNI]
-- 🎓 I almost graduate in 4-5 months !! 🎉
+- 📚 I'm currently studying for a bachelor's degree at Thai-Nichi Institue of Technology [TNI][TNI]
+- 🎓 I'm going to graduate in 4-5 months !! 🎉
 - 💻 My currently faculty : Information Technology [IT][TNI-IT] 👨🏼‍🎓
-- 🤖 I’m interested to try and learn everything about code 🧑‍💻
-- 🌟 Free time : I love to play game so much like ROX (Mobile), Ragnarok Online (PC), and strategy game 🎮
-- ✨ I’m newbie for evenything and still learning everything that I could learn.
-- 🖥️ When I graduate I'm looking for a job about dev code backend (java , php , node.js , mysql) 
-- 🎒 I planning to learn master's degree in Chulalongkorn University [CU][CU] faculty : Computer Science [CS][CS]
+- 🤖 I’m interested to try and learn everything about coding 🧑‍💻
+- 🌟 Free time : I love playing game so much like ROX (Mobile), Ragnarok Online (PC), and strategy game 🎮
+- ✨ I’m a newbie for everything and still learning everything that I could learn.
+- 🖥️ When I graduate I'm going to look for a job about dev code backend (java , php , node.js , mysql) 
+- 🎒 I'm planning to study in a master's degree in Chulalongkorn University [CU][CU] faculty : Computer Science [CS][CS]
 
 ---
 ### Connect with me:
