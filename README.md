@@ -33,7 +33,7 @@
 ---
 
 [facebook]: https://www.facebook.com/profile.php?id=100070379765734
-[instagram]: https://www.instagram.com/korn.b_
+[instagram]: https://www.instagram.com/k.korn_
 [TNI-IT]: https://www.tni.ac.th/it
 [TNI]: https://www.tni.ac.th
 [CU]: https://www.chula.ac.th
