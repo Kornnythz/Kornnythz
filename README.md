@@ -1,7 +1,7 @@
 ### Hi there , I'm Korn 👋 I'm from Thailand.
 ---
 - 📚 I'm currently studying for a bachelor's degree at Thai-Nichi Institue of Technology [TNI][TNI]
-- 🎓 I'm going to graduate in 4-5 months !! 🎉
+- 🎓 I'm going to graduate in 2-3 months !! 🎉
 - 💻 My currently faculty : Information Technology [IT][TNI-IT] 👨🏼‍🎓
 - 🤖 I’m interested to try and learn everything about coding 🧑‍💻
 - 🌟 Free time : I love playing game so much like ROX (Mobile), Ragnarok Online (PC), and strategy game 🎮
